@@ -56,6 +56,6 @@ img {
 #platform {
     margin: 10px;
     height: 10px;
-    background-color: #124d32;
-    /* filter: blur(1px); */
+    background-color: #3cb8ff;
+    filter: blur(5px);
 }
